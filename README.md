@@ -1,5 +1,5 @@
 # HR-DataAnalysisProjects
-
+### Dashboard Link : https://project.novypro.com/jvf97p
 ## Creating an HR Report for AtliQ:
 
 In a recent project, I took inspiration from a series by Codebasics, where the focus was on crafting a comprehensive HR report for a company operating in a hybrid work environment. The aim was to process and analyze attendance data to provide meaningful insights to the HR department.
